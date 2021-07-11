@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>变量的生存周期</title>
+    <link href="/2021/04/11/%E5%8F%98%E9%87%8F%E7%9A%84%E7%94%9F%E5%AD%98%E5%91%A8%E6%9C%9F/"/>
+    <url>/2021/04/11/%E5%8F%98%E9%87%8F%E7%9A%84%E7%94%9F%E5%AD%98%E5%91%A8%E6%9C%9F/</url>
+    
+    <content type="html"><![CDATA[<p>前两天帮边边de一道深搜的裸模板题</p><p>看了半天没看出来</p><p>后来发现递归函数dfs()里当前更新坐标的变量是全局变量</p><p>之前对变量的作用域和生存周期这些概念挺不以为意的</p><p>现在发现还是挺要紧的，至少知道递归函数里用全局变量要慎之又慎了</p><p>回头再看遍c prime plus</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>CS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>第一篇博客写给Samsung PM953</title>
+    <link href="/2021/04/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99Samsung-PM953/"/>
+    <url>/2021/04/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99Samsung-PM953/</url>
+    
+    <content type="html"><![CDATA[<p>它大概存着我高中毕业以来一半的快乐吧</p><p>500r/960G的价格对我来说很友好</p><p>现在被我拿去和同学换了一块3T的exos（老渣男了</p><p>全盘连续读写1100/900MB 相当不俗的成绩，就是主控温度略高</p><p>密密麻麻的钽电容也非常有安全感，再也不怕半夜宿舍断电丢数据啦</p><p>srds 最后还是要再骂一句 傻逼三星</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>硬件</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
