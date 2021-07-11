@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>联想M73准系统伪完美黑苹果折腾指南</title>
+    <link href="/2021/07/11/%E8%81%94%E6%83%B3M73%E5%87%86%E7%B3%BB%E7%BB%9F%E4%BC%AA%E5%AE%8C%E7%BE%8E%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%8A%98%E8%85%BE%E6%8C%87%E5%8D%97/"/>
+    <url>/2021/07/11/%E8%81%94%E6%83%B3M73%E5%87%86%E7%B3%BB%E7%BB%9F%E4%BC%AA%E5%AE%8C%E7%BE%8E%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%8A%98%E8%85%BE%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<p>也不算完美吧，Air Drop等Apple特色功能一切正常，但是不能随航</p><p>也不敢更新big sur（万一出问题不想再折腾了</p><p>macOS Catalina 10.15.7</p><p>闲鱼真是个好地方啊，有些东西某宝实在是淘不到</p><p>这批M73应该是某些zf单位计划报废下来落到贩子手里的</p><h3 id="先列个配置单"><a href="#先列个配置单" class="headerlink" title="先列个配置单"></a><strong>先列个配置单</strong></h3><p>机箱&amp;散热&amp;主板：联想 M73准系统</p><p>CPU： i3-4360T</p><p>显卡：HD 4600</p><p>内存：Adata 4G*2 DDR3L</p><p>固态：GALAX 铁甲蘸酱 256G</p><p>网卡：博通BCM943224HMS</p><p>蓝牙：杂牌不知道叫啥，能用就行（</p><p>电源：Lenovo原装65W 外置</p><h3 id="刷主板白名单"><a href="#刷主板白名单" class="headerlink" title="刷主板白名单"></a>刷主板白名单</h3><p><a href="https://www.bilibili.com/video/BV1ZK411J7SC?from=search&amp;seid=5191565636195486079">https://www.bilibili.com/video/BV1ZK411J7SC?from=search&amp;seid=5191565636195486079</a></p><p><a href="https://www.bilibili.com/video/BV1yi4y1g71u">https://www.bilibili.com/video/BV1yi4y1g71u</a></p><p><em>保姆式教程</em></p><h3 id="编辑UEFI"><a href="#编辑UEFI" class="headerlink" title="编辑UEFI"></a>编辑UEFI</h3><p>然后就是Opencore傻瓜式操作了</p><h3 id="配置思路"><a href="#配置思路" class="headerlink" title="配置思路"></a>配置思路</h3><p>CPU有几个选项：i3-4160T/i3-4360T/i5-4590T</p><p>前者核显HD4400有点拉胯并且高分辨率下大概率出问题</p><p>后者功耗高了20W，M73这个羸弱的“魔改”笔记本散热器有点压不住，噪音拉满属实难顶</p><p>而且写写代码看看网页4c4t性能过剩（其实就是没钱，多俩核贵了小200</p><p>所以折中选4360T</p><p>内存没什么好多说的 DDR3L或者DDR3只要是笔记本内存都行</p><p>固态也是能用就行，影驰的铁甲蘸酱，经典白片固态，够用</p><p>网卡是白苹果同款（吐槽一下白果网卡是真的贵，被玩黑果的这帮人炒上去了，性能拉胯，主要是免驱</p><p>这么折腾下来也算是有了丐版的APPLE全家桶了。（一个苹果黑粉手里有全套果子的设备就挺魔幻的</p><p>然后就是适应MAC的键盘配列和快捷方式了，大写锁定切换输入法是真的反人类，我吐了</p><p>然后是配环境配环境配环境</p><h3 id="小插曲"><a href="#小插曲" class="headerlink" title="小插曲"></a>小插曲</h3><p>HD4600在这个状态下不能认出高刷屏，开机跑码结束之后就没有视频输出了</p><p>在试错的时候把XV27UP的DP口插坏了，吓得我以为是显卡花屏了。</p><p>迫不得已选择了plan B 把老的副屏卖掉，整了个Dell P2219当副屏 再加个HDMI母转DP公的转接线</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>KFC原味鸡选购指南</title>
     <link href="/2021/07/11/KFC%E5%8E%9F%E5%91%B3%E9%B8%A1%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/"/>
     <url>/2021/07/11/KFC%E5%8E%9F%E5%91%B3%E9%B8%A1%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/</url>
